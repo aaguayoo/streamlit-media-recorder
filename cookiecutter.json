@@ -1,6 +1,6 @@
 {
     "project": "streamlit-media-recorder", 
-    "description": "Streamlit App for Audio/Video record.",
+    "description": "Streamlit App for Audio and Video record.",
     "author": "Alejandro Aguayo-Ortiz <aaguayoo92@gmail.com>",
     "repository": "aaguayoo"
 }
